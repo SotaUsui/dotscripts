@@ -5,7 +5,11 @@
 
 ## Command
 * create symbolic links for files between ~/bin and ~/.scripts
-'make link'
+```
+make link
+```
 * remove these symbolic links and leave copies in ~/bin
-'make unlink'
+```
+make unlink
+```
 
